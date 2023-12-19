@@ -1,0 +1,32 @@
+body {
+  font-size: 14px;
+  font-family: Helvetica, Arial, Verdana, sans-serif;
+  color: black;
+}
+#wrapper {
+  margin: 28px auto 28px auto;
+  min-width: 800px;
+}
+header {
+  font-size: 18px;
+  text-align: center;
+  padding: 8px;
+  margin-bottom: 10px;
+  background: -webkit-linear-gradient(#0ABAB5 0%, #ffffff 100%);
+  min-height: 128px;
+}
+section {
+  padding: 28px;
+  background: white;
+}
+footer {
+  text-align: center;
+  padding: 8px;
+  margin-top: 10px;
+  background: -webkit-linear-gradient(#ffffff 0%, #0ABAB5 100%);
+  min-height: 64px;
+  color: grey;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
