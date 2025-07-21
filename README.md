@@ -1,9 +1,9 @@
 # thetitan.github.io
-This is a repository which will be used for a GitHub Pages.
+This is a repository which will be used with GitHub Pages.
 
-## Repo Function/Purpoouse
-* 2023.12.18 - add page to be used as default page for Hoem Page button.
+## Repo Function / Purpose
+* 2023.12.18 - added a section (HB), with page to be used as default page for a browser's Home Page button.
 
 ## Contents
 * [ ] Landing page
-* [ ] Home page
+* [ ] Alexandar's home page
