@@ -16,6 +16,8 @@ List of to dos.
 * [ ] Content
 	* [ ] Search bar
 	* [ ] Bookmarks.
+		* [ ] Personal websites
+		* [ ] News websites
 	* [ ] RSS feed aggregator.
 		* [ ] TitanFusion.net
 		* [ ] Other Feeds
